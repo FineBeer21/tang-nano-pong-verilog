@@ -1,0 +1,13 @@
+build/
+
+*.json
+*.fs
+*.bin
+*.log
+*.rpt
+*.vcd
+*.gtkw
+
+.DS_Store
+Thumbs.db
+.vscode/
