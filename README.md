@@ -4,9 +4,11 @@ A complete hardware implementation of the classic Pong arcade game written from 
 
 ---
 
+
 <p align="center">
   <img src="assets/GIF.gif" width="450" alt="Demo GIF">
 </p>
+
 
 ---
 
