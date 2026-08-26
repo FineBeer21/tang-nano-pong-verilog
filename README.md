@@ -8,6 +8,8 @@ A complete hardware implementation of the classic Pong arcade game written from 
   <img src="assets/GIF.gif" width="450" alt="Demo GIF">
 </p>
 
+---
+
 ## Features
 
 - **Hardware Rendering Pipeline:** Rendering directly to the SPI interface.
