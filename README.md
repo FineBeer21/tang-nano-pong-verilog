@@ -4,7 +4,10 @@ A complete hardware implementation of the classic Pong arcade game written from 
 
 ---
 
-![Demo GIF](./assets/GIF.gif)
+<p align="center">
+  <img src="assets/GIF.gif" width="450" alt="Robot Demo GIF">
+</p>
+
 
 ---
 
